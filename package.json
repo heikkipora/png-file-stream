@@ -25,13 +25,13 @@
     "url": "https://github.com/eugeneware/png-file-stream/issues"
   },
   "dependencies": {
-    "glob-stream": "~3.1.9",
+    "glob-stream": "~6.1.0",
     "png-js": "~0.1.1",
-    "through2": "~0.2.3"
+    "through2": "~2.0.3"
   },
   "devDependencies": {
-    "expect.js": "~0.2.0",
-    "concat-stream": "~1.2.1"
+    "expect.js": "~0.3.1",
+    "concat-stream": "~1.6.2",
     "mocha": "~5.2.0"
   }
 }
